@@ -7,7 +7,7 @@
   
   <br />
   
-  <a href="https://www.youtube.com/watch?v=toOvJhKAfLI"><img href="https://i.imgur.com/JKUGpWd.png" width="1280" height="720"></a>
+[![Vídeo das aplicações](https://i.imgur.com/JKUGpWd.png)](https://www.youtube.com/watch?v=toOvJhKAfLI "Apresentação Senhor Bolo")
 </details>
 
  #### Disclaimer - As aplicações que desenvolvemos são apenas um conceito de um sistema para o Senhor Bolo, não sendo usadas em produção.
